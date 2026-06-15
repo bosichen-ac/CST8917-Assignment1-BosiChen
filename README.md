@@ -1,1 +1,1 @@
-# CST8917-Assignment1-BosiChen
+# CST8917 Assignment1
